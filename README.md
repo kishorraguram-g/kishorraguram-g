@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/kishorraguram-g/kishorraguram-g/main/assets/banner.png)](https://github.com/kishorraguram-g)
+[![Banner](https://raw.githubusercontent.com/kishorraguram-g/kishorraguram-g/main/assets/backgroundbanner.png)](https://github.com/kishorraguram-g)
 
 <h1 align="center">Hi 👋, I'm Kishor Raguram G</h1>
 <h3 align="center">A passionate Software Engineer and Competitive Programmer</h3>
